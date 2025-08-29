@@ -1,3 +1,3 @@
 # Demo
 
-type shi
+type shi.
